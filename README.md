@@ -1,1 +1,9 @@
-# Activity-1
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Git Project</title>
+</head>
+<body>
+    <h1>Hello, Git & GitHub!</h1>
+</body>
+</html>
